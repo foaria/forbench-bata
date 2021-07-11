@@ -4,3 +4,4 @@ Benchmark using for statement
 ```
 node forbench
 ```
+Only supports single core measurement
