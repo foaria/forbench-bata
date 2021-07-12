@@ -1,3 +1,7 @@
+/*
+©foaria
+Created by Gensokyo Kenken
+*/
 var score={};
 var time = Math.floor(new Date()/1000);
 for(var i=0; Math.floor(new Date()/1000)-time <4; i++){
