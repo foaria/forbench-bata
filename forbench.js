@@ -1,6 +1,6 @@
 /*
 ©foaria
-Created by Gensokyo Kenken
+Created by Gensokyo-Kenken
 */
 var score={};
 var time = Math.floor(new Date()/1000);
