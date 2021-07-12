@@ -1,3 +1,4 @@
+[English](https://github.com/foaria/forbench-bata/blob/main/README-English.md)
 # forbench bata
 for文を使ったベンチマーク
 # ダウンロード
