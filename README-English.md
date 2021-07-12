@@ -1,10 +1,11 @@
+[日本語](https://github.com/foaria/forbench-bata)
 # forbench bata
 Benchmark using for statement
 # Download
 ```bash
-curl https://raw.githubusercontent.com/foaria/forbench-bata/main/forbench.js -O
+curl https://foaria.github.io/dl/forbench.js -O
 #use wget
-wget https://raw.githubusercontent.com/foaria/forbench-bata/main/forbench.js
+wget https://foaria.github.io/dl/forbench.js
 #use git clone
 git clone https://github.com/foaria/forbench-bata.git
 cd forbench-bata
